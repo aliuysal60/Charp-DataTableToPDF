@@ -1,0 +1,13 @@
+C:\Users\auysa\source\repos\Form_DataTableToPDF\Form_DataTableToPDF\bin\Debug\Form_DataTableToPDF.exe.config
+C:\Users\auysa\source\repos\Form_DataTableToPDF\Form_DataTableToPDF\bin\Debug\Form_DataTableToPDF.exe
+C:\Users\auysa\source\repos\Form_DataTableToPDF\Form_DataTableToPDF\bin\Debug\Form_DataTableToPDF.pdb
+C:\Users\auysa\source\repos\Form_DataTableToPDF\Form_DataTableToPDF\bin\Debug\itextsharp.dll
+C:\Users\auysa\source\repos\Form_DataTableToPDF\Form_DataTableToPDF\bin\Debug\itextsharp.xml
+C:\Users\auysa\source\repos\Form_DataTableToPDF\Form_DataTableToPDF\obj\Debug\Form_DataTableToPDF.csprojAssemblyReference.cache
+C:\Users\auysa\source\repos\Form_DataTableToPDF\Form_DataTableToPDF\obj\Debug\Form_DataTableToPDF.Form1.resources
+C:\Users\auysa\source\repos\Form_DataTableToPDF\Form_DataTableToPDF\obj\Debug\Form_DataTableToPDF.Properties.Resources.resources
+C:\Users\auysa\source\repos\Form_DataTableToPDF\Form_DataTableToPDF\obj\Debug\Form_DataTableToPDF.csproj.GenerateResource.cache
+C:\Users\auysa\source\repos\Form_DataTableToPDF\Form_DataTableToPDF\obj\Debug\Form_DataTableToPDF.csproj.CoreCompileInputs.cache
+C:\Users\auysa\source\repos\Form_DataTableToPDF\Form_DataTableToPDF\obj\Debug\Form_DataTableToPDF.csproj.CopyComplete
+C:\Users\auysa\source\repos\Form_DataTableToPDF\Form_DataTableToPDF\obj\Debug\Form_DataTableToPDF.exe
+C:\Users\auysa\source\repos\Form_DataTableToPDF\Form_DataTableToPDF\obj\Debug\Form_DataTableToPDF.pdb
